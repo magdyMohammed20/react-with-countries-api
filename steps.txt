@@ -1,0 +1,19 @@
+(1) Confgiure And Install tailwindcss And Set darkMode:'class' To Enable Make Theme Toggle Using Css class
+
+(2) Install React Router [yarn add react-router-dom@6]
+
+(3) Handle 'index.html' By Add Font Awesome Link And Handle body Tag For Theme Handle
+
+(4) Handle React Router And It's Components
+
+(5) Handle API Call In '/pages/Home.js' To Fetch All Countries In App Startup
+
+(6) Create Header Component
+
+(7) Handle Searched Country In 'Home.js'
+
+(8) Create Filter By Region [Africa , America....] Inside 'Home.js' And Handle Select Filter By Region
+
+(9) Display Countries Data In 'Home.js' And Create 'Country.js' For Country Display Data
+
+(10) Create Details Page Which In '/pages/Details.js' And List Data In It
